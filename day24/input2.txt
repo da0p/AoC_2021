@@ -1,0 +1,4 @@
+inp w
+inp x
+inp y
+inp z

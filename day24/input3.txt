@@ -1,0 +1,12 @@
+inp w
+inp x
+inp y
+inp z
+mul x 0
+add x z
+mod x 26
+div z 1
+div z 2
+add x 12
+mod x 6
+eql x 0
